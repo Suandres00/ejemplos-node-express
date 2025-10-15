@@ -9,3 +9,5 @@ console.log("extension del archivo:", extension);
 
 const nombreBase = path.basename(rutaCompleta);
 console.log("Nombre base del archivo:", nombreBase);
+
+// Obtener el directorio del archivo>
